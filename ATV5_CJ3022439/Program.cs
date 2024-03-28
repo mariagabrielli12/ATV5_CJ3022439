@@ -35,7 +35,7 @@
 
                 case 1:
 
-                    //1
+                    // Atividade 1
 
                     int n, i;
 
@@ -58,6 +58,8 @@
 
                 case 2:
 
+                    // Atividade 2
+
                     int r, j;
 
                     Console.WriteLine("Digite um número:");
@@ -78,6 +80,8 @@
 
                 case 3:
 
+                    //Atividade 3
+
                     int p, l;
 
                     Console.WriteLine("Digite um número até 1000:");
@@ -94,6 +98,8 @@
                     break;
 
                 case 4:
+
+                    //Atividade 4
 
                     int n1, a1;
 
@@ -118,6 +124,8 @@
 
                     case 5:
 
+                   // Atividade 5
+
                     int v, p1;
 
                     Console.WriteLine("Digite um número:");
@@ -135,6 +143,8 @@
                     
 
                 case 6:
+
+                    // Atividade 6
 
                     int j1, v2;
                     
@@ -161,6 +171,8 @@
                     break;
 
                 case 7:
+
+                   // Atividade 7
 
                     int t, l3;
                     int r1 = 0, p3 = 0;
